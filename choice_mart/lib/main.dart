@@ -6,7 +6,7 @@ void main() {
 }
 
 class App extends StatelessWidget {
-  const App({super.key});
+  const App({super.key}); sdffsdfsdfsdfasdfgki c gtugbiyujlimim jbbi huignmjm ub i ggkj80nklu
 
   @override
   Widget build(BuildContext context) {
@@ -16,4 +16,4 @@ class App extends StatelessWidget {
       darkTheme: TThemeData.darkTheme,
     );
   }
-}
+}   
