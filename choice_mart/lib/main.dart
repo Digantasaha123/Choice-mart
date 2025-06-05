@@ -6,14 +6,14 @@ void main() {
 }
 
 class App extends StatelessWidget {
-  const App({super.key}); sdffsdfsdfsdfasdfgki c gtugbiyujlimim jbbi huignmjm ub i ggkj80nklu
+  const App({super.key}); 
 
   @override
   Widget build(BuildContext context) {
     return  MaterialApp(
       themeMode: ThemeMode.system,
-      theme: TThemeData.lightTheme,
-      darkTheme: TThemeData.darkTheme,
+      theme: TAppTheme.lightTheme,
+      darkTheme: TAppTheme.darkTheme,
     );
   }
 }   
